@@ -7,15 +7,24 @@
 
 <br/>
 
-<div align="center">
- 
- 🌟 I’m currently Learning **App Development** 
- 
- 💫 I Love **Ui/UX Designing**
+<div>
+    
+- 🎨 UI/UX Enthusiast: Designs with flair!
+    
+- 📚 Always Learning, Creating: Evolving daily.
+  
+- 💡 Love bringing my Ideas to Life!
 
- ⚡ I Love doing things that **Excite me**
+- 🌐 Realm Roamer: Venturing into diverse domains!
+
+- 🌱 Growth Junkie: Lifelong learner.
+
+- 🎮 Gaming, Fitness Fun: Sweet life!
+
+- 😄 Joyful Living: Fun Ambassador!
 
  </div>
+
 <br/>
  <div align="center"> 
   <a href="https://www.linkedin.com/in/yuvraj-singh-shekhawat-4404b4283" target="_blank">
