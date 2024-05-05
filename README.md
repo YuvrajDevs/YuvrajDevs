@@ -8,17 +8,11 @@
 <div>
     
 - 🎨 UI/UX Enthusiast: Designs with flair!
-    
 - 📚 Always Learning, Creating: Evolving daily.
-  
 - 💡 Love bringing my Ideas to Life!
-
 - 🌐 Realm Roamer: Venturing into diverse domains!
-
 - 🌱 Growth Junkie: Lifelong learner.
-
 - 🎮 Gaming, Fitness Fun: Sweet life!
-
 - 😄 Joyful Living: Fun Ambassador!
 
  </div>
