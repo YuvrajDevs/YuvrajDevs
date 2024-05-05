@@ -41,7 +41,7 @@
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,figma,tailwind,r" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,figma,tailwind,r" />
     <img src="https://skillicons.dev/icons?i=python,firebase,c,cpp,java" /><br>
 </div>
 
