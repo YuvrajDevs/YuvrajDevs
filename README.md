@@ -1,7 +1,7 @@
 
 <!--<h1 align="center">Code enthusiast crafting digital dreams ✨</h1>-->
 ![My cool gif](https://github.com/YuvrajDevs/YuvrajDevs/raw/main/save.gif)
-<h2>About me 💫 </h2>
+<h1>About me</h1>
 <div>
     
 - 🎨 UI/UX Enthusiast: Designs with flair!
@@ -29,7 +29,7 @@
 
 <hr/>
 
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<h1>Languages-Frameworks-Tools</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,figma,tailwind,r&theme=light" />
