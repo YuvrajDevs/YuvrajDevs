@@ -1,18 +1,20 @@
 
 <!--<h1 align="center">Code enthusiast crafting digital dreams ✨</h1>-->
 ![My cool gif](https://github.com/YuvrajDevs/YuvrajDevs/raw/main/save.gif)
-<h1>About me</h1>
-<div>
-    
-- 🎨 UI/UX Enthusiast: Designs with flair!
-- 📚 Always Learning, Creating: Evolving daily.
-- 💡 Love bringing my Ideas to Life!
-- 🌐 Realm Roamer: Venturing into diverse domains!
-- 🌱 Growth Junkie: Lifelong learner.
-- 🎮 Gaming, Fitness Fun: Sweet life!
-- 😄 Joyful Living: Fun Ambassador!
+## Hey I’m Yuvraj 👋,
+***Half my life is experiments, the other half is fixing what I just broke.***  
+***My mind runs on code, design, and late-night what-if theories.***
 
- </div>
+☁️ Currently learning and working with DevOps + Cloud tools  
+🎨 Product Designer turned Tech Explorer  
+🎮 Gamer at heart who enjoys deep philosophical conversations  
+🎧 Music is always on (don’t judge my playlist!)  
+🧠 I love learning — if it teaches me something new, I’m in  
+🕵️‍♂️ Fascinated by mysteries, theories, and everything in between  
+
+
+> “Curiosity is the compass that guides me — everything else just follows.”
+
 
 <br/>
  <div align="center"> 
@@ -22,18 +24,13 @@
   <a href="mailto:workwithyuvraj0712@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/yuvrajsingh0712" target="_blank">
-     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
-<hr/>
 
-<h1>Languages-Frameworks-Tools</h1>
+## Languages-Frameworks-Tools
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,figma,tailwind,r&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,c,cpp,java,mysql,sqlite,&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=ansible,aws,azure,bash,docker,git,github,gitlab,go,grafana,prometheus,python,jenkins,githubactions,kafka,kubernetes,linux,mysql,rabbitmq,redis,react,figma,tailwind,nextjs,&perline=12&theme=light" />
 </div>
 
 <br/>
