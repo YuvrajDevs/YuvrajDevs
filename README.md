@@ -5,8 +5,8 @@
 ***Half my life is experiments, the other half is fixing what I just broke.***  
 ***My mind runs on YAMLs, design, and late-night what-if theories.***
 
-☁️ Currently learning and working with DevOps + Cloud tools
-📝 At This Point I Breathe YAML !
+☁️ Currently learning and working with DevOps + Cloud tools  
+📝 At This Point I Breathe YAML!  
 🎨 Product Designer turned Tech Explorer  
 🎮 Gamer at heart who enjoys deep philosophical conversations  
 🎧 Music is always on (don’t judge my playlist!)  
