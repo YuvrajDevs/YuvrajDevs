@@ -2,7 +2,6 @@
 ![My cool gif](https://github.com/YuvrajDevs/YuvrajDevs/raw/main/save.gif)
 ## Hey I’m Yuvraj 👋,
 ***Half my life is experiments, the other half is fixing what I just broke.***  
-***My mind runs on prompts, pixels, and late-night what-if theories.***
 
 🤖 Building AI products: agents, LLM features, and evals that measure accuracy instead of assuming it  
 🧱 Full stack, idea to deployed: Next.js, Node, Postgres, MongoDB, auth, billing, background jobs  
